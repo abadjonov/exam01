@@ -1,0 +1,7 @@
+son = int(input('N: '))
+
+total = 0
+
+for i in range(1, son + 1):
+    total += i
+print(total)
